@@ -1453,7 +1453,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 43263335}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 79bd82c40d71fd94081edcf1e1b14a7a, type: 3}
   m_Controller: {fileID: 9100000, guid: 9161780e90d8b5b449b8cd12e9030623, type: 2}
   m_CullingMode: 0
@@ -4499,10 +4499,10 @@ Animator:
   m_GameObject: {fileID: 752948410}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: f488bf1c995152747a03676debfecc39, type: 3}
-  m_Controller: {fileID: 9100000, guid: 24baa00d6729bf3498ff7809a739843d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 9161780e90d8b5b449b8cd12e9030623, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_WarningMessage: 
@@ -4522,8 +4522,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cea76c2c72f3c904990d6786c8bb1a8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
-  rotationSpeed: 0
+  speed: 5
+  rotationSpeed: 720
 --- !u!1 &767784579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7462477072791169509, guid: 79bd82c40d71fd94081edcf1e1b14a7a, type: 3}
@@ -5045,8 +5045,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.27797514, y: 0, z: -1.7983154}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2.68, y: 2.68, z: 2.68}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
