@@ -2347,6 +2347,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5454896124907373499, guid: 49b1dd5a8d2b6b8439cedf4adbddeffc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 210319121428061335, guid: 49b1dd5a8d2b6b8439cedf4adbddeffc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 49b1dd5a8d2b6b8439cedf4adbddeffc, type: 3}
       propertyPath: m_Name
       value: "YYB\u5F0F\u9ED1\u767D\u88D9\u521D\u97F3\u672A\u6765v1.51"
@@ -4388,6 +4396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170504658}
   - component: {fileID: 170504657}
+  - component: {fileID: 170504659}
   m_Layer: 0
   m_Name: System
   m_TagString: Untagged
@@ -4422,6 +4431,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &170504659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170504656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24858b55c21c64f429aa860dc0e78545, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &170857496 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7207990126833869347, guid: a6e87c219119a2249bde355d0b77d3e0, type: 3}
@@ -12362,8 +12383,8 @@ Animator:
   m_GameObject: {fileID: 752948410}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: f488bf1c995152747a03676debfecc39, type: 3}
-  m_Controller: {fileID: 9100000, guid: 9161780e90d8b5b449b8cd12e9030623, type: 2}
-  m_CullingMode: 0
+  m_Controller: {fileID: 9100000, guid: fb2ee38380727d747a424b2d1dfd13ce, type: 2}
+  m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
@@ -30480,6 +30501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2097088037}
   - component: {fileID: 2097088038}
+  - component: {fileID: 2097088039}
   m_Layer: 0
   m_Name: Agent-model
   m_TagString: Untagged
@@ -30520,6 +30542,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   rotationSpeed: 720
+  animator: {fileID: 1886372541}
+--- !u!114 &2097088039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097088036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce1d5cef179b71419a277d0c897ba05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   animator: {fileID: 1886372541}
 --- !u!1 &2098377293 stripped
 GameObject:
