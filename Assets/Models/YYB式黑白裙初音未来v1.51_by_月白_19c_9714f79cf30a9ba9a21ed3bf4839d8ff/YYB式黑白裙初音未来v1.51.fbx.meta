@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 49b1dd5a8d2b6b8439cedf4adbddeffc
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0.Body
+    second: {fileID: 2100000, guid: 4d4ee3cc7a5f7904eb02ee6e5cc3885b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1.leg
+    second: {fileID: 2100000, guid: 5060810e57dbc31458d54d71d3b806c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10.Pupils
+    second: {fileID: 2100000, guid: 7702e42b7f2cfe04f80101b6f746ad49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11.EyeShadow
+    second: {fileID: 2100000, guid: 7f2cd7bfd5128014c996a6210e355456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12.EyeLights
+    second: {fileID: 2100000, guid: be086edc5f8a9a746bc836f696fb4bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13.Mouth
+    second: {fileID: 2100000, guid: 96a4318a6f34fb64eb0457af7daba0d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14.Teeth
+    second: {fileID: 2100000, guid: 22bca5153e2d7c94383bcc93b1c626ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15.Tongue
+    second: {fileID: 2100000, guid: b4069b2c19d551d4f92373db427cb224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16.Expressions
+    second: {fileID: 2100000, guid: 411853f514694094ab81212081a2681e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17.Expressions2
+    second: {fileID: 2100000, guid: ae1e07b049b6e5943af997ed32098bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18.hair
+    second: {fileID: 2100000, guid: c7c8b732bb397c4449e43ce81be1ba7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19.hair1
+    second: {fileID: 2100000, guid: 62cb2a696e6b0ed43aaf8e2b32f51611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2.stoc
+    second: {fileID: 2100000, guid: af40deea77f69be4a95e880ecd1af969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20.hair2
+    second: {fileID: 2100000, guid: 31384dc1d6c047549b455e3e1f91019f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21.HairShadow
+    second: {fileID: 2100000, guid: aafae1c132327184fb307a6e4b09d860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22.Scrunchies
+    second: {fileID: 2100000, guid: 8461aad9fce394d4d8e79ff7e7ce5466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23.Bra
+    second: {fileID: 2100000, guid: be323bbaf4f9d9e4d916b4a19f074ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24.Panties
+    second: {fileID: 2100000, guid: 2cd44b0e5783e014aac99d17fc7aafdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25.dress top
+    second: {fileID: 2100000, guid: b361adc4c12a5af46b565d9eb8215141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 26.dress shirt
+    second: {fileID: 2100000, guid: c8fc0c57bb7be4a4f85b62d4ea642037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27.dress bow
+    second: {fileID: 2100000, guid: 37c0bfd1e40ab0744bd21043afb9838c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 28.dress skirt
+    second: {fileID: 2100000, guid: 6cb07eab4ab0eae46aae46738def298c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 29.dress ruffle
+    second: {fileID: 2100000, guid: dafa2b5163d20dd4abbba60acf873d90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3.body1
+    second: {fileID: 2100000, guid: 0a658acc48ae31b4b91ec94cb7b82dc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 30.dress bottom
+    second: {fileID: 2100000, guid: eb80f201aa4fccf48a04e4dadb425def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 31.Shoes_Base
+    second: {fileID: 2100000, guid: c0e7ab89ddc47a84db05756fb1ff121f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 32.Shoes_Sole
+    second: {fileID: 2100000, guid: ef0bef54ce3da0343b6ce6d89d505382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 33.Shoes_Buckle
+    second: {fileID: 2100000, guid: 6b1907364f4939840a2bdbc000d5b008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4.Nails
+    second: {fileID: 2100000, guid: f7f94ac56e5df8749a637fa20964577c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5.Face
+    second: {fileID: 2100000, guid: 4abfa9f61031e86408290b282c69692d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6.Face2
+    second: {fileID: 2100000, guid: a589ae88137f7be44a80844912b5bf66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7.Eyebrows
+    second: {fileID: 2100000, guid: b756792c9227ba24ebcc7e114f83eefc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8.Eyelashes
+    second: {fileID: 2100000, guid: 4c82a153d52d78a47a24ed75b0de17b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9.Eyes
+    second: {fileID: 2100000, guid: 2ed991c47f0da2645a979b4422f1664a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

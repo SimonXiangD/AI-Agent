@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class PlayMovement : MonoBehaviour
 {
-    public float speed;
-    public float rotationSpeed;
+    public float speed = 5;
+    public float rotationSpeed = 720;
 
-    private Animator animator;
+    public Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
+        // animator = GetComponent<Animator>();
     }
 
     void Update()
