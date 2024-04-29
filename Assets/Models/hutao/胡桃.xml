@@ -6,7 +6,7 @@
         <modelNameJp>Hutao</modelNameJp>
         <modelNameEn></modelNameEn>
         <commentJp>感谢下载本模型&#xD;&#xA;&#xD;&#xA;◆允许完善物理，修正模型权重、表情等bug&#xD;&#xA;&#xD;&#xA;&#x20;&#x20;允许改色，适度更改衣装，添加spa、toon等&#xD;&#xA;&#xD;&#xA;◆请勿二次配布，以及拆取部件以用于改造其他模型&#xD;&#xA;&#xD;&#xA;&#x20;&#x20;请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等&#xD;&#xA;&#xD;&#xA;&#x20;&#x20;请勿用于商业用途&#xD;&#xA;&#xD;&#xA;◆他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任&#xD;&#xA;&#xD;&#xA;◆模型提供：miHoYo&#xD;&#xA;&#xD;&#xA;◆模型改造：观海&#xD;&#xA;&#xD;&#xA;&#x20;&#x20;联系我【BiliBili：观海子】&#xD;&#xA;&#xD;&#xA;◆最终解释权归属：miHoYo&#xD;&#xA;&#xD;&#xA;请遵守本规则使用</commentJp>
-        <commentEn></commentEn>
+        <commentEn></commentEn>
         <numVertex>18609</numVertex>
         <numIndex>71832</numIndex>
         <vertexScale>8.000000</vertexScale>
@@ -20,7 +20,7 @@
             <fileName>skin.bmp</fileName>
         </Texture>
         <Texture>
-            <fileName>tex/发.png</fileName>
+            <fileName>tex/hair.png</fileName>
         </Texture>
         <Texture>
             <fileName>tex/hair.png</fileName>
