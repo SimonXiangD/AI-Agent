@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PlayMovement : MonoBehaviour
 {
@@ -17,6 +18,10 @@ public class PlayMovement : MonoBehaviour
 
     void Update()
     {
+        EventSystem eventSystem = EventSystem.current;
+        GameObject selectedGameObject = eventSystem.currentSelectedGameObject;
+        // Debug.Log(selectedGameObject);
+        if(selectedGameObject != null) return;
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
